@@ -151,14 +151,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-[![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanLodha0908&show_icons=true&theme=dark&hide_border=true)](https://github.com/AryanLodha0908)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanLodha0908&layout=compact&theme=dark&hide_border=true)](https://github.com/AryanLodha0908)
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-lodha-9525a4355/)
