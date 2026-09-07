@@ -195,7 +195,7 @@ Developed a comprehensive computer vision pipeline for automated segmentation of
 ## 💡 What I'm Currently Working On
 
 - 🔬 Advancing **real-time computer vision systems** for intelligent surveillance
-- 📝 Preparing **camera-ready manuscript** and completing registration for IDEA 2026 conference (accepted paper to be published in Springer Nature LNNS)
+- 📝 Prepping to present accepted paper at **IDEA 2026 conference (Springer Nature LNNS)**
 - 🤖 Exploring **advanced LLM architectures** and multi-agent orchestration
 - 🔐 Developing **AI-powered cybersecurity solutions** for threat detection
 - 📦 Building **scalable MLOps platforms** for production AI deployment
