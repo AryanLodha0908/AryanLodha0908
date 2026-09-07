@@ -14,8 +14,37 @@
 - 🎓 **B.Tech in Artificial Intelligence & Data Science** (Honours in Applied Cyber Security) at K.J Somaiya College of Engineering
 - 💼 **Deep Learning & Computer Vision Intern** at Trueview Aurangabad (May 2026 - Jul 2026)
 - 🔬 **AI Research Intern** at K.J. Somaiya School of Engineering (May 2025 - Jul 2025)
+- 📰 **Published Researcher** - Paper accepted for publication in Springer Nature LNNS Conference (IDEA 2026, Top 15% of submissions)
 - 🚀 Building intelligent surveillance systems, autonomous AI agents, and production-ready AI platforms
 - 🎯 Specializing in Computer Vision, LLM orchestration, MLOps, and Multi-Agent AI systems
+
+---
+
+## 📚 Research Publications
+
+### **Automated Segmentation for Archaeological Rock Art: A Comparative Pipeline Study**
+**Accepted for Publication at IDEA 2026** (Intelligent Data Engineering and AI) | Springer Nature LNNS Conference Proceedings
+
+**Paper ID:** 297 | **Selected from competitive peer-review process where only the top 15% of submitted papers were accepted for publication**
+
+**Authors:** Sunyana V. Joshi, Irfan Siddavattam, Ashwini Dalvi, Aayush Solanke, **Aryan Lodha**
+
+**Abstract:**
+Developed a comprehensive computer vision pipeline for automated segmentation of rock art at heritage sites. Compared six different segmentation approaches (Canny edge detection, Watershed, Mask R-CNN, U-Net, SAM) on a dataset of 1,976 high-resolution rock art images from Bhimbetka rock shelters and Saru-Maru Caves in India.
+
+**Key Results:**
+- **89.2% IoU** with domain-specific U-Net + post-processing
+- **40% reduction** in manual annotation time
+- **Comprehensive ablation study** comparing classical and deep learning methods
+- Novel insights on preprocessing impact and domain adaptation challenges
+
+**Technologies:** Python, TensorFlow, U-Net, OpenCV, FAISS, SQLite, PyTorch, Scikit-learn
+
+**Contribution:** Led deep feature extraction, model implementation, comparative analysis, and results interpretation
+
+**Publication Status:**  **Accepted and will be published** in Springer Nature Lecture Notes in Networks and Systems (LNNS) 
+
+**Links:** [Research Paper (PID-297)](./PID-297.pdf) | [Response to Reviewers](./Response_to_Reviewers.pdf)
 
 ---
 
@@ -26,6 +55,7 @@
 - **MLOps & Production AI** (FastAPI, Docker, containerization, model deployment)
 - **Full-Stack Development** (MERN Stack, React, Node.js, REST APIs)
 - **Cybersecurity & Threat Detection** (Anomaly detection, behavioral analysis, AI-powered defense)
+- **Computer Vision Research** (Image segmentation, object detection, digital heritage applications)
 
 ---
 
@@ -73,7 +103,9 @@
 - **AI-Powered Archaeological Analysis**: Engineered an end-to-end computer vision platform for automated archaeological rock art analysis
 - **Advanced Segmentation Pipeline**: Implemented U-Net-based image segmentation with deep feature extraction using TensorFlow and FAISS
 - **Results**: Achieved **89.2% IoU** and **40% reduction in manual annotation time** through intelligent batch annotation system
-- **Stack**: Python, TensorFlow, OpenCV, Streamlit, FAISS, SQLite
+- **Published Research**: Paper "Automated Segmentation for Archaeological Rock Art: A Comparative Pipeline Study" accepted for publication in Springer Nature LNNS Conference (IDEA 2026) : selected from competitive peer-review where only the top 15% of submitted papers were accepted
+- **Stack**: Python, TensorFlow, OpenCV, Streamlit, FAISS, SQLite, PyTorch, Scikit-learn
+- **Dataset**: Curated 1,976 high-resolution images from Bhimbetka and Saru-Maru heritage sites with pixel-level annotation (κ=0.84)
 
 ---
 
@@ -109,13 +141,6 @@
   - Automated network isolation and threat response
 - Real-time threat detection and automated mitigation
 
-### 📈 Smart User Behavior Insights System
-**MERN Stack, Python, Machine Learning**
-
-- Developed **full-stack analytics platform** capturing user interactions for bounce rate prediction
-- Implemented scalable REST APIs with ML-powered behavioral insights
-- Privacy-preserving analytics dashboards for actionable intelligence
-
 ### 🛍️ MarketMind AI
 **React, Node.js, MongoDB, Ollama LLM, Puppeteer, Docker**
 
@@ -135,7 +160,7 @@
 | **Web Development** | React, Node.js, Express.js, FastAPI, REST APIs, MERN Stack |
 | **Databases** | PostgreSQL, MongoDB, SQLite, SQLAlchemy |
 | **DevOps** | Docker, Linux, Git/GitHub, Streamlit, Ollama |
-| **Computer Vision** | OpenCV, Image Segmentation, Object Detection, Feature Extraction |
+| **Computer Vision** | OpenCV, Image Segmentation, Object Detection, Feature Extraction, Digital Heritage |
 
 ---
 
@@ -163,6 +188,7 @@
 ## 💡 What I'm Currently Working On
 
 - 🔬 Advancing **real-time computer vision systems** for intelligent surveillance
+- 📝 Preparing **camera-ready manuscript** and completing registration for IDEA 2026 conference (accepted paper to be published in Springer Nature LNNS)
 - 🤖 Exploring **advanced LLM architectures** and multi-agent orchestration
 - 🔐 Developing **AI-powered cybersecurity solutions** for threat detection
 - 📦 Building **scalable MLOps platforms** for production AI deployment
@@ -174,6 +200,7 @@
 - Deep Learning and Computer Vision projects
 - AI/LLM-powered applications
 - Cybersecurity AI solutions
+- Research in Computer Vision & Digital Heritage
 - Full-stack AI development
 - Open-source ML/DL contributions
 
