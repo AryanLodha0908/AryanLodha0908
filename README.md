@@ -25,7 +25,7 @@
 ### **Automated Segmentation for Archaeological Rock Art: A Comparative Pipeline Study**
 **Accepted for Publication at IDEA 2026** (Intelligent Data Engineering and AI) | Springer Nature LNNS Conference Proceedings
 
-**Paper ID:** 297 | **Selected from competitive peer-review process where only the top 15% of submitted papers were accepted for publication**
+**Paper ID:** 297 | **Top 15% of submissions**
 
 **Authors:** Sunyana V. Joshi, Irfan Siddavattam, Ashwini Dalvi, Aayush Solanke, **Aryan Lodha**
 
@@ -44,7 +44,7 @@ Developed a comprehensive computer vision pipeline for automated segmentation of
 
 **Publication Status:**  **Accepted and will be published** in Springer Nature Lecture Notes in Networks and Systems (LNNS) 
 
-**Links:** [Research Paper (PID-297)](./PID-297.pdf) | [Response to Reviewers](./Response_to_Reviewers.pdf)
+**Links:** [Research Paper (PID-297)](./PID-297.pdf) 
 
 ---
 
@@ -103,7 +103,7 @@ Developed a comprehensive computer vision pipeline for automated segmentation of
 - **AI-Powered Archaeological Analysis**: Engineered an end-to-end computer vision platform for automated archaeological rock art analysis
 - **Advanced Segmentation Pipeline**: Implemented U-Net-based image segmentation with deep feature extraction using TensorFlow and FAISS
 - **Results**: Achieved **89.2% IoU** and **40% reduction in manual annotation time** through intelligent batch annotation system
-- **Published Research**: Paper "Automated Segmentation for Archaeological Rock Art: A Comparative Pipeline Study" accepted for publication in Springer Nature LNNS Conference (IDEA 2026) : selected from competitive peer-review where only the top 15% of submitted papers were accepted
+- **Published Research**: Paper "Automated Segmentation for Archaeological Rock Art: A Comparative Pipeline Study" accepted for publication in Springer Nature LNNS Conference (IDEA 2026) : Top 15% of submissions
 - **Stack**: Python, TensorFlow, OpenCV, Streamlit, FAISS, SQLite, PyTorch, Scikit-learn
 - **Dataset**: Curated 1,976 high-resolution images from Bhimbetka and Saru-Maru heritage sites with pixel-level annotation (κ=0.84)
 
@@ -140,6 +140,13 @@ Developed a comprehensive computer vision pipeline for automated segmentation of
   - Vulnerability assessment and risk scoring
   - Automated network isolation and threat response
 - Real-time threat detection and automated mitigation
+
+### 📈 Smart User Behavior Insights System
+**MERN Stack, Python, Machine Learning**
+
+- Developed **full-stack analytics platform** capturing user interactions for bounce rate prediction
+- Implemented scalable REST APIs with ML-powered behavioral insights
+- Privacy-preserving analytics dashboards for actionable intelligence
 
 ### 🛍️ MarketMind AI
 **React, Node.js, MongoDB, Ollama LLM, Puppeteer, Docker**
