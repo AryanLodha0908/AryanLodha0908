@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-lodha-9525a4355/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryanlodha0908@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/AryanLodha0908)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/AryanLodha0908/AryanLodha0908/blob/main/Resume.pdf)
 
 ---
 
@@ -17,6 +18,7 @@
 - 📰 **Published Researcher** - Paper accepted for publication in Springer Nature LNNS Conference (IDEA 2026, Top 15% of submissions)
 - 🚀 Building intelligent surveillance systems, autonomous AI agents, and production-ready AI platforms
 - 🎯 Specializing in Computer Vision, LLM orchestration, MLOps, and Multi-Agent AI systems
+- 📄 **[View My Resume](https://github.com/AryanLodha0908/AryanLodha0908/blob/main/Resume.pdf)**
 
 ---
 
@@ -189,6 +191,7 @@ Developed a comprehensive computer vision pipeline for automated segmentation of
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanlodha0908@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanLodha0908)
 [![Phone](https://img.shields.io/badge/Phone-+91%209636958438-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919636958438)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/AryanLodha0908/AryanLodha0908/blob/main/Resume.pdf)
 
 ---
 
