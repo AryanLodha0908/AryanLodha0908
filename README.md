@@ -29,7 +29,7 @@
 
 **Paper ID:** 297 | **Top 15% of submissions**
 
-**Authors:** Sunyana V. Joshi, Irfan Siddavattam, Ashwini Dalvi, Aayush Solanke, **Aryan Lodha**
+**Authors:** Sunayana V. Jadhav, Irfan Siddavattam, Ashwini Dalvi, Aayush Solanke, **Aryan Lodha**
 
 **Abstract:**
 Developed a comprehensive computer vision pipeline for automated segmentation of rock art at heritage sites. Compared six different segmentation approaches (Canny edge detection, Watershed, Mask R-CNN, U-Net, SAM) on a dataset of 1,976 high-resolution rock art images from Bhimbetka rock shelters and Saru-Maru Caves in India.
